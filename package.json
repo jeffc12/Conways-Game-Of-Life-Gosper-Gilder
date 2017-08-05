@@ -1,0 +1,13 @@
+{
+  "name": "headnote_game_of_life",
+  "version": "1.0.1",
+  "author": "jeffrey chen",
+  "description": "game of life challenge for headnote",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "blessed": "0.0.51"
+  }
+}
