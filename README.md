@@ -17,4 +17,8 @@ npm install
 ```
 npm run start
 ```
-# Conways-Game-Of-Life-Gosper-Gilder
+# Screen Shots
+
+![One](https://drive.google.com/file/d/0B-xzD4ktgVsrX0tGSXFPdGhJMms/view?usp=sharing)
+![Two](https://drive.google.com/file/d/0B-xzD4ktgVsrMVk0aW5GdGFEejA/view?usp=sharing)
+
